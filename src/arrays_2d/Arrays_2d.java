@@ -4,8 +4,6 @@
  */
 package arrays_2b;
 
-import javax.swing.JOptionPane;
-
 public class Arrays_2d {
 
     /**
